@@ -1,0 +1,75 @@
+.background {
+    position: relative;
+    height: 340px;
+    width: 102%;
+    top: -14px;
+    left: -8px;
+}
+hr {
+    height: 40px;
+    background-color: black;
+    width: 102%;
+    margin-left: -9px;
+    margin-top: -19px;
+}
+h1{
+    font-size: -webkit-xxx-large;
+    font-style: oblique;
+    position: absolute;
+    color: darkkhaki;
+    right: 0px;
+    left: 0px;
+    top: -30px;
+}
+h2 {
+    font-family: monospace;
+    text-shadow: 0 0 15px #13d006;
+    color: antiquewhite;
+    position: relative;
+    top: -50px;
+    text-align: center;
+}
+.logotipo {
+    position: absolute;
+    width: 100px;
+    top: 150px;
+    right: 120px;
+}
+ul {
+    list-style: none;
+}
+.tablelinks li {
+    margin-bottom: 20px;
+    font-size: larger;
+    font-family: monospace;
+}
+.information {
+    position: relative;
+    left: 290px;
+    bottom: 130px;
+    font-size: large;
+    font-family: monospace;
+}
+.information1 {
+    position: relative;
+    font-family: monospace;
+    left: 30px;
+    font-size: large;
+    text-align: justify;
+    margin-right: 175px;
+    margin: 100px;
+    margin-right: 152px;
+    margin-top: -126px;
+    margin-left: 215px;
+}
+.contact1 {
+    position: relative;
+    font-family: monospace;
+    text-align: justify;
+    left: 350px;
+    top: -90px;
+    font-size: large;   
+}
+p{
+    text-indent: 3%;
+}

@@ -1,0 +1,98 @@
+.background {
+    position: relative;
+    height: 340px;
+    width: 102%;
+    top: 52px;
+    left: -8px;
+}
+hr {
+    height: 40px;
+    background-color: black;
+    width: 102%;
+    margin-left: -9px;
+    margin-top: 47px;
+}
+h1{
+    font-size: -webkit-xxx-large;
+    font-style: oblique;
+    position: absolute;
+    color: darkblue;
+    right: 0px;
+    left: 0px;
+    top: -30px;
+}
+h2 {
+    font-family: monospace;
+    text-shadow: 0 0 15px #13d006;
+    color: antiquewhite;
+    position: relative;
+    top: -50px;
+    text-align: center;
+}
+.logotipo {
+    position: absolute;
+    width: 100px;
+    top: 250px;
+    left: 40px;
+}
+ul {
+    list-style: none;
+}
+.tablelinks li {
+    font-size: larger;
+    font-family: monospace;
+    display: inline;
+    position: relative;
+    top: -451px;
+    left: 800px;
+}
+.information {
+    position: relative;
+    left: 290px;
+    bottom: 50px;
+    font-size: large;
+    font-family: monospace;
+}
+.information1 {
+    position: relative;
+    font-family: monospace;
+    left: 30px;
+    font-size: large;
+    text-align: justify;
+    margin-right: 175px;
+    margin: 100px;
+    margin-right: 152px;
+    margin-top: -50px;
+    margin-left: 215px;
+}
+.contact1 {
+    position: relative;
+    font-family: monospace;
+    text-align: justify;
+    left: 400px;
+    top: 0px;
+    font-size: large;   
+}
+.button {
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    padding: 2px 6px 2px 6px;
+    border-bottom: 4px solid #1b1a1a;
+    border-right: 4px solid #080808;
+    border-top: 2px solid #545151;
+    border-left: 2px solid #545151;
+}
+.selection {
+    text-decoration: none;
+    background-color: limegreen;
+    color: white;
+    padding: 2px 6px 2px 6px;
+    border-bottom: 4px solid #1b1a1a;
+    border-right: 4px solid #080808;
+    border-top: 2px solid #545151;
+    border-left: 2px solid #545151;
+}
+p {
+    text-indent: 3%;
+}
